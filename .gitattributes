@@ -1,0 +1,4 @@
+linux-3.18.* filter=lfs diff=lfs merge=lfs -text
+gcc-linaro-4.8-2014.04.tar.xz filter=lfs diff=lfs merge=lfs -text
+linux-firmware-*.* filter=lfs diff=lfs merge=lfs -text
+samba-3.6.25.tar.gz filter=lfs diff=lfs merge=lfs -text
